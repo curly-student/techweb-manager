@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Manager restaurante
 
 Manager restaurante
 
-## Available Scripts
+## Actiuni valabile
 
 In the project directory, you can run:
 
